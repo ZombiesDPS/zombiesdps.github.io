@@ -1,0 +1,1 @@
+window.AUFSATZ_GATTUNG=WK_PAKET.nimm(8);
